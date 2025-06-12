@@ -36,7 +36,7 @@ UIBackgroundModes → bluetooth-central / Keeps scan / connection alive when app
 ## Build & Run
 
 ```bash
-git clone https://github.com/<your-name>/test_task_ios2.git
+git clone https://github.com/totSamyGaspar/test_task_ios2.git
 open test_task_ios2/test_task_ios2.xcodeproj
 # Select real iPhone — BLE is unavailable in Simulator
 ⌘R             # build & run
